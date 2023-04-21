@@ -217,9 +217,9 @@ int createCircle(float radius, int nPoints)
 {
 	vector <GLfloat> vertices;
 	float angle = 0.0;
-	float slice = 2 * Pi / (float)nPoints;
+	float slice = 2 * Pi / ((float)nPoints - 1.0);
 	int i = 0;
-	float r = 1.0;
+	float r = 0.0;
 	float g = 1.0;
 	float b = 0.0;
 

@@ -89,7 +89,7 @@ int main()
 
 	// Gerando um buffer simples, com a geometria de um triângulo
 	//GLuint VAO = setupGeometry();
-	int nPoints = 6;
+	int nPoints = 4;
 	GLuint VAO = createCircle(0.5, nPoints);
 	
 

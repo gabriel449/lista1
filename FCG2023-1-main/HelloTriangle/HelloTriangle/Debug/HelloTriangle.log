@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Pichau\Desktop\espiral\espiral\espiral\HelloTriangle\HelloTriangle\Source.cpp(36,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Pichau\Desktop\espiral\espiral\espiral\HelloTriangle\HelloTriangle\Source.cpp(238,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Pichau\Desktop\espiral\espiral\espiral\HelloTriangle\HelloTriangle\Source.cpp(327,22): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Pichau\Desktop\espiral\espiral\espiral\HelloTriangle\HelloTriangle\Source.cpp(351,18): warning C4305: '+=': truncamento de 'double' para 'float'
+  HelloTriangle.vcxproj -> C:\Users\Pichau\Desktop\espiral\espiral\espiral\HelloTriangle\Debug\HelloTriangle.exe

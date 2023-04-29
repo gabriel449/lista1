@@ -14,7 +14,7 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="Shaders">
-      <UniqueIdentifier>{5f469efb-e597-4138-a3d5-b4566d613cc6}</UniqueIdentifier>
+      <UniqueIdentifier>{df8c4357-1f0d-42ab-a79b-a3b21fb25f60}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -34,11 +34,11 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="HelloTriangle.vs">
+    <Text Include="EaeTriangulo.vs">
       <Filter>Shaders</Filter>
-    </None>
-    <None Include="HelloTriangle.fs">
+    </Text>
+    <Text Include="EaeTriangulo.fs">
       <Filter>Shaders</Filter>
-    </None>
+    </Text>
   </ItemGroup>
 </Project>
